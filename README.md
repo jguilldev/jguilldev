@@ -5,7 +5,7 @@ Soy tecnólogo en electrónica con más de 10 años de experiencia en instrument
 
 ### Tecnologías y Habilidades:
 - 💻 **Lenguajes**: HTML, CSS, JavaScript, Python
-- ⚙️ **Frameworks y Herramientas**: React, Svelte, Git, GitHub, CI/CD
+- ⚙️ **Integracion continua, Desarrollo continuo CI/CD
 - 🔧 **Hardware**: Diseño de circuitos, electrónica de potencia
 - 📘 **Estudios Actuales**: Ingeniería de Software
 
