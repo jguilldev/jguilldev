@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Guillermo Vásquez 👋
+### Tecnólogo en Electrónica | Estudiante de Ingeniería de Software | Desarrollador Frontend
 
-<!--
-**jguilldev/jguilldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy tecnólogo en electrónica con más de 10 años de experiencia en instrumentación industrial y desarrollo de soluciones electrónicas. Actualmente, estoy estudiando ingeniería de software, enfocándome en el desarrollo web frontend con **HTML, CSS y JavaScript**.
 
-Here are some ideas to get you started:
+### Tecnologías y Habilidades:
+- 💻 **Lenguajes**: HTML, CSS, JavaScript, Python
+- ⚙️ **Frameworks y Herramientas**: React, Svelte, Git, GitHub, CI/CD
+- 🔧 **Hardware**: Diseño de circuitos, electrónica de potencia
+- 📘 **Estudios Actuales**: Ingeniería de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Proyectos Destacados:
+- [**Reconocimiento de emociones**](https://github.com/guillermovasbendev/ProyectRecEmotion): Desarrollo de reconocimiento de emociones con IA, python, bibliotrcas y librerias como **OpenCv y Numpy**.
+- [**Portafolio Web**](https://github.com/jguilldev/briefcasee): Mi portafolio de desarrollador frontend, creado con **HTML, CSS y JavaScript**, tambien e incluido algo de **Diseño y Responsive**.
+
+### Mis estadísticas de GitHub:
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jguilldev&show_icons=true&theme=dark)
+
+
+### Conéctate conmigo:
+- [LinkedIn](www.linkedin.com/in/guillermovasbendev)
+- [Portafolio](https://jguilldev.github.io/briefcasee/index.html)
+
