@@ -12,6 +12,8 @@ Soy tecnólogo en electrónica con más de 10 años de experiencia en instrument
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Proyectos Destacados:
 - [**Reconocimiento de emociones**](https://github.com/guillermovasbendev/ProyectRecEmotion): Desarrollo de reconocimiento de emociones con IA, python, bibliotrcas y librerias como **OpenCv y Numpy**.
@@ -22,6 +24,6 @@ Soy tecnólogo en electrónica con más de 10 años de experiencia en instrument
 
 
 ### Conéctate conmigo:
-- [LinkedIn](www.linkedin.com/in/guillermovasbendev)
+- [LinkedIn](https://www.linkedin.com/in/guillermovasbendev)
 - [Portafolio](https://jguilldev.github.io/briefcasee/index.html)
 
