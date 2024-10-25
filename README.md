@@ -1,7 +1,7 @@
 # ¡Hola! Soy Guillermo Vásquez 👋
 ### Tecnólogo en Electrónica | Estudiante de Ingeniería de Software | Desarrollador Frontend
 
-Soy tecnólogo en electrónica con más de 10 años de experiencia en instrumentación industrial y desarrollo de soluciones electrónicas. Actualmente, estoy estudiando ingeniería de software, enfocándome en el desarrollo web frontend con **HTML, CSS y JavaScript**.
+Soy tecnólogo en electrónica con más de 10 años de experiencia en  desarrollo de soluciones electrónicas. Actualmente, estoy estudiando ingeniería de software, enfocándome en el desarrollo web frontend con **HTML, CSS y JavaScript**.
 
 ### Tecnologías y Habilidades:
 - 💻 **Lenguajes**: HTML, CSS, JavaScript, Python
